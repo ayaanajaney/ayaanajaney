@@ -11,7 +11,7 @@
 
 ## `$ cat skills.txt`
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="33%">
 
@@ -45,7 +45,7 @@
 </td>
 <td valign="top" width="33%">
 
-**`>_  binary and re`**
+**`>_  binary and reversing`**
 
 › Ghidra<br>
 › GDB / pwndbg<br>
