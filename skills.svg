@@ -1,129 +1,122 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="476" viewBox="0 0 880 476" role="img" aria-label="skills">
-  <style>
-    .m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
-    .hd{font-size:12.5px;fill:#4ade80;font-weight:600}
-    .ic{font-size:12.5px;fill:#2f6b47}
-    .it{font-size:13px;fill:#c8cdd4}
-    .ch{font-size:13px;fill:#2f6b47}
-  </style>
-  <rect x="0.5" y="0.5" width="284" height="253" rx="8" fill="#080b09" stroke="#14301f"/>
-  <text class="m ic" x="14" y="28">&lt;&gt;</text>
-  <text class="m hd" x="52" y="28">programming</text>
-  <line x1="14" y1="40" x2="271" y2="40" stroke="#14301f"/>
-  <text class="m ch" x="14" y="52">›</text>
-  <text class="m it" x="28" y="52">Python</text>
-  <text class="m ch" x="14" y="74">›</text>
-  <text class="m it" x="28" y="74">C</text>
-  <text class="m ch" x="14" y="96">›</text>
-  <text class="m it" x="28" y="96">Java</text>
-  <text class="m ch" x="14" y="118">›</text>
-  <text class="m it" x="28" y="118">SQL</text>
-  <text class="m ch" x="14" y="140">›</text>
-  <text class="m it" x="28" y="140">JavaScript</text>
-  <text class="m ch" x="14" y="162">›</text>
-  <text class="m it" x="28" y="162">Bash</text>
-  <text class="m ch" x="14" y="184">›</text>
-  <text class="m it" x="28" y="184">PowerShell</text>
-  <text class="m ch" x="14" y="206">›</text>
-  <text class="m it" x="28" y="206">x86-64 Assembly</text>
-  <text class="m ch" x="14" y="228">›</text>
-  <text class="m it" x="28" y="228">Splunk SPL</text>
-  <rect x="297.5" y="0.5" width="284" height="253" rx="8" fill="#080b09" stroke="#14301f"/>
-  <text class="m ic" x="311" y="28">[#]</text>
-  <text class="m hd" x="349" y="28">security tools</text>
-  <line x1="311" y1="40" x2="568" y2="40" stroke="#14301f"/>
-  <text class="m ch" x="311" y="52">›</text>
-  <text class="m it" x="325" y="52">Splunk Enterprise Security</text>
-  <text class="m ch" x="311" y="74">›</text>
-  <text class="m it" x="325" y="74">CrowdStrike Falcon</text>
-  <text class="m ch" x="311" y="96">›</text>
-  <text class="m it" x="325" y="96">Tenable</text>
-  <text class="m ch" x="311" y="118">›</text>
-  <text class="m it" x="325" y="118">Axonius</text>
-  <text class="m ch" x="311" y="140">›</text>
-  <text class="m it" x="325" y="140">Wireshark</text>
-  <text class="m ch" x="311" y="162">›</text>
-  <text class="m it" x="325" y="162">Nmap</text>
-  <text class="m ch" x="311" y="184">›</text>
-  <text class="m it" x="325" y="184">Kali Linux</text>
-  <text class="m ch" x="311" y="206">›</text>
-  <text class="m it" x="325" y="206">Autopsy</text>
-  <text class="m ch" x="311" y="228">›</text>
-  <text class="m it" x="325" y="228">John the Ripper</text>
-  <rect x="594.5" y="0.5" width="284" height="253" rx="8" fill="#080b09" stroke="#14301f"/>
-  <text class="m ic" x="608" y="28">&gt;_</text>
-  <text class="m hd" x="646" y="28">binary and reversing</text>
-  <line x1="608" y1="40" x2="865" y2="40" stroke="#14301f"/>
-  <text class="m ch" x="608" y="52">›</text>
-  <text class="m it" x="622" y="52">Ghidra</text>
-  <text class="m ch" x="608" y="74">›</text>
-  <text class="m it" x="622" y="74">GDB / pwndbg</text>
-  <text class="m ch" x="608" y="96">›</text>
-  <text class="m it" x="622" y="96">pwntools</text>
-  <text class="m ch" x="608" y="118">›</text>
-  <text class="m it" x="622" y="118">ROPgadget</text>
-  <text class="m ch" x="608" y="140">›</text>
-  <text class="m it" x="622" y="140">ROP / ret2libc</text>
-  <text class="m ch" x="608" y="162">›</text>
-  <text class="m it" x="622" y="162">Shellcode development</text>
-  <text class="m ch" x="608" y="184">›</text>
-  <text class="m it" x="622" y="184">Stack and heap corruption</text>
-  <text class="m ch" x="608" y="206">›</text>
-  <text class="m it" x="622" y="206">DEP / ASLR bypass</text>
-  <text class="m ch" x="608" y="228">›</text>
-  <text class="m it" x="622" y="228">Steghide</text>
-  <rect x="0.5" y="266.5" width="284" height="209" rx="8" fill="#080b09" stroke="#14301f"/>
-  <text class="m ic" x="14" y="294">{}</text>
-  <text class="m hd" x="52" y="294">systems and identity</text>
-  <line x1="14" y1="306" x2="271" y2="306" stroke="#14301f"/>
-  <text class="m ch" x="14" y="318">›</text>
-  <text class="m it" x="28" y="318">Active Directory</text>
-  <text class="m ch" x="14" y="340">›</text>
-  <text class="m it" x="28" y="340">Group Policy</text>
-  <text class="m ch" x="14" y="362">›</text>
-  <text class="m it" x="28" y="362">SCCM</text>
-  <text class="m ch" x="14" y="384">›</text>
-  <text class="m it" x="28" y="384">Linux / Windows / macOS</text>
-  <text class="m ch" x="14" y="406">›</text>
-  <text class="m it" x="28" y="406">Least privilege</text>
-  <text class="m ch" x="14" y="428">›</text>
-  <text class="m it" x="28" y="428">Baseline hardening</text>
-  <text class="m ch" x="14" y="450">›</text>
-  <text class="m it" x="28" y="450">Git</text>
-  <rect x="297.5" y="266.5" width="284" height="209" rx="8" fill="#080b09" stroke="#14301f"/>
-  <text class="m ic" x="311" y="294">~</text>
-  <text class="m hd" x="349" y="294">network and cloud</text>
-  <line x1="311" y1="306" x2="568" y2="306" stroke="#14301f"/>
-  <text class="m ch" x="311" y="318">›</text>
-  <text class="m it" x="325" y="318">TCP/IP · DNS · TLS</text>
-  <text class="m ch" x="311" y="340">›</text>
-  <text class="m it" x="325" y="340">BGP · OSPF · RPKI</text>
-  <text class="m ch" x="311" y="362">›</text>
-  <text class="m it" x="325" y="362">FRRouting</text>
-  <text class="m ch" x="311" y="384">›</text>
-  <text class="m it" x="325" y="384">IDS / IPS</text>
-  <text class="m ch" x="311" y="406">›</text>
-  <text class="m it" x="325" y="406">Packet analysis</text>
-  <text class="m ch" x="311" y="428">›</text>
-  <text class="m it" x="325" y="428">AWS (IAM, S3, CloudTrail, KMS)</text>
-  <text class="m ch" x="311" y="450">›</text>
-  <text class="m it" x="325" y="450">Docker</text>
-  <rect x="594.5" y="266.5" width="284" height="209" rx="8" fill="#080b09" stroke="#14301f"/>
-  <text class="m ic" x="608" y="294">::</text>
-  <text class="m hd" x="646" y="294">frameworks</text>
-  <line x1="608" y1="306" x2="865" y2="306" stroke="#14301f"/>
-  <text class="m ch" x="608" y="318">›</text>
-  <text class="m it" x="622" y="318">MITRE ATT&amp;CK</text>
-  <text class="m ch" x="608" y="340">›</text>
-  <text class="m it" x="622" y="340">NIST 800-61</text>
-  <text class="m ch" x="608" y="362">›</text>
-  <text class="m it" x="622" y="362">NIST CSF</text>
-  <text class="m ch" x="608" y="384">›</text>
-  <text class="m it" x="622" y="384">OWASP Top 10</text>
-  <text class="m ch" x="608" y="406">›</text>
-  <text class="m it" x="622" y="406">CVSS</text>
-  <text class="m ch" x="608" y="428">›</text>
-  <text class="m it" x="622" y="428">Incident response</text>
-  <text class="m ch" x="608" y="450">›</text>
-  <text class="m it" x="622" y="450">Vulnerability management</text>
+  <rect x="0.5" y="0.5" width="284" height="253" rx="8" fill="#080b09" stroke="#14301f" stroke-width="1"/>
+  <text x="14" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#2f6b47">&lt;&gt;</text>
+  <text x="52" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600" fill="#4ade80">programming</text>
+  <line x1="14" y1="40" x2="271" y2="40" stroke="#14301f" stroke-width="1"/>
+  <text x="14" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Python</text>
+  <text x="14" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">C</text>
+  <text x="14" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Java</text>
+  <text x="14" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">SQL</text>
+  <text x="14" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">JavaScript</text>
+  <text x="14" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Bash</text>
+  <text x="14" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">PowerShell</text>
+  <text x="14" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">x86-64 Assembly</text>
+  <text x="14" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Splunk SPL</text>
+  <rect x="297.5" y="0.5" width="284" height="253" rx="8" fill="#080b09" stroke="#14301f" stroke-width="1"/>
+  <text x="311" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#2f6b47">[#]</text>
+  <text x="349" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600" fill="#4ade80">security tools</text>
+  <line x1="311" y1="40" x2="568" y2="40" stroke="#14301f" stroke-width="1"/>
+  <text x="311" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Splunk Enterprise Security</text>
+  <text x="311" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">CrowdStrike Falcon</text>
+  <text x="311" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Tenable</text>
+  <text x="311" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Axonius</text>
+  <text x="311" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Wireshark</text>
+  <text x="311" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Nmap</text>
+  <text x="311" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Kali Linux</text>
+  <text x="311" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Autopsy</text>
+  <text x="311" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">John the Ripper</text>
+  <rect x="594.5" y="0.5" width="284" height="253" rx="8" fill="#080b09" stroke="#14301f" stroke-width="1"/>
+  <text x="608" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#2f6b47">&gt;_</text>
+  <text x="646" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600" fill="#4ade80">binary and reversing</text>
+  <line x1="608" y1="40" x2="865" y2="40" stroke="#14301f" stroke-width="1"/>
+  <text x="608" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Ghidra</text>
+  <text x="608" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">GDB / pwndbg</text>
+  <text x="608" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">pwntools</text>
+  <text x="608" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">ROPgadget</text>
+  <text x="608" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">ROP / ret2libc</text>
+  <text x="608" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Shellcode development</text>
+  <text x="608" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Stack and heap corruption</text>
+  <text x="608" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">DEP / ASLR bypass</text>
+  <text x="608" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Steghide</text>
+  <rect x="0.5" y="266.5" width="284" height="209" rx="8" fill="#080b09" stroke="#14301f" stroke-width="1"/>
+  <text x="14" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#2f6b47">{}</text>
+  <text x="52" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600" fill="#4ade80">systems and identity</text>
+  <line x1="14" y1="306" x2="271" y2="306" stroke="#14301f" stroke-width="1"/>
+  <text x="14" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Active Directory</text>
+  <text x="14" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Group Policy</text>
+  <text x="14" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">SCCM</text>
+  <text x="14" y="384" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="384" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Linux / Windows / macOS</text>
+  <text x="14" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Least privilege</text>
+  <text x="14" y="428" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="428" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Baseline hardening</text>
+  <text x="14" y="450" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="28" y="450" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Git</text>
+  <rect x="297.5" y="266.5" width="284" height="209" rx="8" fill="#080b09" stroke="#14301f" stroke-width="1"/>
+  <text x="311" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#2f6b47">~</text>
+  <text x="349" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600" fill="#4ade80">network and cloud</text>
+  <line x1="311" y1="306" x2="568" y2="306" stroke="#14301f" stroke-width="1"/>
+  <text x="311" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">TCP/IP · DNS · TLS</text>
+  <text x="311" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">BGP · OSPF · RPKI</text>
+  <text x="311" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">FRRouting</text>
+  <text x="311" y="384" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="384" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">IDS / IPS</text>
+  <text x="311" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Packet analysis</text>
+  <text x="311" y="428" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="428" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">AWS (IAM, S3, CloudTrail, KMS)</text>
+  <text x="311" y="450" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="325" y="450" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Docker</text>
+  <rect x="594.5" y="266.5" width="284" height="209" rx="8" fill="#080b09" stroke="#14301f" stroke-width="1"/>
+  <text x="608" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#2f6b47">::</text>
+  <text x="646" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600" fill="#4ade80">frameworks</text>
+  <line x1="608" y1="306" x2="865" y2="306" stroke="#14301f" stroke-width="1"/>
+  <text x="608" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">MITRE ATT&amp;CK</text>
+  <text x="608" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">NIST 800-61</text>
+  <text x="608" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">NIST CSF</text>
+  <text x="608" y="384" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="384" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">OWASP Top 10</text>
+  <text x="608" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">CVSS</text>
+  <text x="608" y="428" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="428" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Incident response</text>
+  <text x="608" y="450" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#2f6b47">›</text>
+  <text x="622" y="450" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c8cdd4">Vulnerability management</text>
 </svg>
