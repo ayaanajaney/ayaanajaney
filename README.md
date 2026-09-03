@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="terminal.svg" alt="cat profile" width="752" />
+  <img src="profile.svg" alt="cat profile" width="752" />
 </p>
 
 <p align="center">
