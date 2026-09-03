@@ -1,63 +1,72 @@
-## Hi, I'm Ayaan 👋
+# Ayaan Ajaney
 
-Computer Science @ **Georgia Tech**, concentrating in **Cybersecurity and Privacy** and **Information Internetworks**.
+```console
+ayaan@gatech:~$ whoami
+Ayaan Ajaney — B.S. Computer Science, Georgia Institute of Technology
+Concentrations: Cybersecurity and Privacy · Information Internetworks
 
-I work on the defensive side day to day and the offensive side in the lab, and I think the two make each other sharper.
+ayaan@gatech:~$ cat ./focus
+Defense at work. Offense in the lab. Each one sharpens the other.
+```
 
 ---
 
-### 🔭 What I'm doing now
+## `[+] current`
 
-**Cybersecurity Operations Analyst Intern** @ **Georgia Tech Research Institute** — Information Security Operations Center
+**Cybersecurity Operations Analyst Intern** — Georgia Tech Research Institute, Information Security Operations Center
 
 Phishing triage and incident response under NIST 800-61, detection engineering in Splunk, and identity security work. I build the dashboards our analysts use for credential hygiene and for tracking account compromise from detection through remediation.
 
 ---
 
-### 🧩 What I work on
+## `[+] focus areas`
 
-**Detection engineering** — Splunk SPL, correlating CrowdStrike Falcon and Active Directory telemetry, mapping behavior to MITRE ATT&CK
+```
+[*] detection engineering    Splunk SPL, CrowdStrike Falcon and Active Directory
+                             telemetry correlation, MITRE ATT&CK mapping
 
-**Binary exploitation and reverse engineering** — stack and heap corruption, ROP, defeating canaries, DEP and ASLR, in Ghidra, GDB and pwntools
+[*] binary exploitation      stack and heap corruption, ROP chains, ret2libc,
+                             defeating stack canaries, DEP and ASLR
 
-**Routing security** — BGP, OSPF and RPKI; I've issued route origin authorizations, deployed origin validation, and built a forged origin hijack that survives it
+[*] reverse engineering      stripped x86-64 binaries, gadget discovery,
+                             shellcode development
 
-**Applied cryptography and web security** — length extension, padding oracle and RSA signature forgery attacks; SQL injection, XSS and CSRF against layered filters
+[*] routing security         BGP, OSPF, RPKI. issued route origin authorizations,
+                             deployed origin validation, then built a forged
+                             origin hijack that survives it
 
-**Identity and endpoint security** — Active Directory, Group Policy, SCCM, least privilege, baseline hardening
+[*] applied cryptography     length extension, MD5 collision, CBC padding oracle,
+                             RSA signature forgery
 
----
+[*] web exploitation         SQL injection, XSS and CSRF against layered filters
 
-### 🏆 Competitions
-
-- **DCISE NetWars Tournament** — winning team
-- **CrowdStrike CTF** — Top 3
-- **Corelight CTF** — Top 2
-
----
-
-### 🧰 Toolbox
-
-**Languages** `Python` `Java` `C` `SQL` `JavaScript` `Bash` `PowerShell` `x86-64 Assembly` `Splunk SPL`
-
-**Security** `Splunk Enterprise Security` `CrowdStrike Falcon` `Tenable` `Axonius` `Wireshark` `Nmap` `Kali Linux`
-
-**Binary & Forensics** `Ghidra` `GDB/pwndbg` `pwntools` `ROPgadget` `Autopsy` `John the Ripper`
-
-**Systems & Cloud** `Active Directory` `Group Policy` `SCCM` `AWS` `Docker` `Linux` `Windows` `macOS` `Git`
-
-**Networking** `TCP/IP` `DNS` `TLS` `BGP` `OSPF` `RPKI` `IDS/IPS` `FRRouting`
+[*] identity and endpoint    Active Directory, Group Policy, SCCM,
+                             least privilege, baseline hardening
+```
 
 ---
 
-### 📁 A note on this profile
+## `[+] toolbox`
 
-Most of my security work lives in coursework that I'm not permitted to publish — Georgia Tech's binary exploitation and information security labs both prohibit posting solutions, and the same goes for the inter-domain routing project. So you won't find those repos here, by design.
+```
+languages     Python · C · Java · SQL · JavaScript · Bash · PowerShell
+              x86-64 Assembly · Splunk SPL
 
-What I can share, I do: original writeups on techniques rather than answer keys, and the projects I build outside class.
+security      Splunk Enterprise Security · CrowdStrike Falcon · Tenable
+              Axonius · Wireshark · Nmap · Kali Linux
+
+binary        Ghidra · GDB/pwndbg · pwntools · ROPgadget
+
+forensics     Autopsy · John the Ripper · Steghide
+
+systems       Active Directory · Group Policy · SCCM · AWS · Docker
+              Linux · Windows · macOS · Git
+
+network       TCP/IP · DNS · TLS · BGP · OSPF · RPKI · IDS/IPS · FRRouting
+```
 
 ---
 
-### 📫 Reach me
+## `[>] contact`
 
-[LinkedIn](https://linkedin.com/in/ayaanajaney) · ajaney@gatech.edu · Atlanta, GA
+[LinkedIn](https://linkedin.com/in/ayaanajaney) · ajaney@gatech.edu
