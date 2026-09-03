@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:4ade80&height=170&section=header&text=AYAAN%20AJANEY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=security%20operations%20%C2%B7%20binary%20exploitation&descAlignY=60&descSize=15" width="100%" />
-
 <p align="center">
-  <img src="terminal.svg" alt="cat profile" width="820" />
+  <img src="terminal.svg" alt="cat profile" width="752" />
 </p>
 
 <p align="center">
@@ -124,5 +122,3 @@
 
 [*] web exploitation         SQL injection, XSS and CSRF against layered filters
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4ade80,100:000000&height=100&section=footer" width="100%" />
