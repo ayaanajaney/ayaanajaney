@@ -1,25 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:4ade80&height=180&section=header&text=AYAAN%20AJANEY&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=security%20operations%20%C2%B7%20binary%20exploitation&descAlignY=58&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:4ade80&height=170&section=header&text=AYAAN%20AJANEY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=security%20operations%20%C2%B7%20binary%20exploitation&descAlignY=60&descSize=15" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=4ADE80&center=true&vCenter=true&width=700&height=42&lines=%24+whoami;security+operations+%2B+detection+engineering;binary+exploitation+%2B+reverse+engineering;BGP+hijack+defense+%2B+RPKI+origin+validation;applied+cryptography+%2B+web+exploitation" alt="whoami" />
+  <img src="terminal.svg" alt="cat profile" width="820" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayaanajaney"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=4ADE80" /></a>
   <a href="mailto:ajaney@gatech.edu"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=4ADE80" /></a>
 </p>
-
-```console
-$ cat profile
-
-name        Ayaan Ajaney
-role        Security Operations Analyst Intern @ GTRI
-education   BS CS, Georgia Tech · May 2027
-focus       Detection engineering · Binary exploitation · Routing security
-concentr.   Cybersecurity and Privacy · Information Internetworks
-
-$ ▮
-```
 
 <br>
 
